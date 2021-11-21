@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NOCx420
+- 👀 I’m interested in whatever Im doing at the moment
+- 🌱 I’m currently learning java
