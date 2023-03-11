@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NOCx420
-- 👀 I’m interested in whatever Im doing at the moment
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Networking and Servers
+- 🌱 I’m currently learning how to run a matrix server
