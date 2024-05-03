@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NOCx420
 - 👀 I’m interested in Networking and Servers
-- 🌱 I’m currently learning how to run a matrix server
+- 🌱 I’m currently learning rust ☜(ﾟヮﾟ☜)
