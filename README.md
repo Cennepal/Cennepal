@@ -1,4 +1,4 @@
-<h2 align="left">Hi ඞ! My name is NOCx and I'm a seasoned angular hater from germany.</h2>
+<h2 align="left">Hi ඞ! My name is Cenn and I'm a seasoned angular hater from germany.</h2>
 
 ###
 
