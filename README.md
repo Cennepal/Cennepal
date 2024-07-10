@@ -11,7 +11,7 @@
 
 <div>
   <p align="left">Me after throwing back three bombs of caffeine only to do nothing.</p>
-  <img align="left" height="150" src="https://files.nocx420.xyz/file/K2OkyElirhvz.gif"  />
+  <img align="left" height="150" src="https://files.cennepal.net/file/K2OkyElirhvz.gif"  />
 </div>
 <br><br><br><br><br><br><br>
   
