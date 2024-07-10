@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Cennepal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cennepal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -10,8 +10,8 @@
 ###
 
 <div>
-  <p align="left">Me after throwing back three bombs of caffeine only to do nothing.</p>
-  <img align="left" height="150" src="https://files.cennepal.net/file/K2OkyElirhvz.gif"  />
+  <p align="left"><b>POV: You see me in my most caffeinated state.</b></p>
+  <img align="left" height="180" src="https://files.cennepal.net/file/K2OkyElirhvz.gif"  />
 </div>
 <br><br><br><br><br><br><br>
   
