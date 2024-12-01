@@ -1,26 +1,52 @@
-<h2 align="left">Hi ඞ! My name is Cenn and I'm a seasoned angular hater from germany.</h2>
-
-###
-
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1><b>Hi ඞ! My name is Cenn and I'm a professional angular hater from germany.</b></h1>
+      <hr />
+    </summary>
+  </ul>
+</div>
 <div align="left">
+  <div id="toc">
+    <ul style="list-style: none">
+      <summary>
+        <h2><b>POV: You see me in my most caffeinated state</b></h2>
+      </summary>
+    </ul>
+  </div>
+  <img height="180" src="https://files.cennepal.net/file/K2OkyElirhvz.gif"  />
+</div>
+<div align="left">
+  <div id="toc">
+    <ul style="list-style: none">
+      <summary>
+        <hr />
+        <h2><b>Some boring stats:</b></h2>
+      </summary>
+    </ul>
+  </div>
   <img src="https://github-readme-stats.vercel.app/api?username=Cennepal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cennepal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div>
-  <p align="left"><b>POV: You see me in my most caffeinated state.</b></p>
-  <img align="left" height="180" src="https://files.cennepal.net/file/K2OkyElirhvz.gif"  />
+<div align="left">
+  <div id="toc">
+    <ul style="list-style: none">
+      <summary>
+        <hr />
+        <h2 align="left"><b>Amount of visits to my abode in the ether:</b></h2>
+      </summary>
+    </ul>
+  </div>
+  <img src="https://counter.katomegumi.net/get/@:Cennepal" alt=":CennepalCounter" />
 </div>
-<br><br><br><br><br><br><br><br>
-  
-###
-
-<hr />  
-
-### Languages and technologies I have an abusive relationship with  
-
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <hr />
+      <h2 align="left"><b>Languages and technologies I have an abusive relationship with:</b></h2>
+    </summary>
+  </ul>
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
